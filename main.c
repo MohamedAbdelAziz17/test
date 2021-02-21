@@ -5,7 +5,11 @@
 int main()
 {
 
-    printf("MAX %d",MAX);
+printf("MAX %d",MAX);
 printf("Mohamed");
+printf("Moaz");
+printf("Nada");
+
+
     return 0;
 }
